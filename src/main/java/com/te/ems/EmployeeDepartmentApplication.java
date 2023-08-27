@@ -10,10 +10,4 @@ public class EmployeeDepartmentApplication {
 		SpringApplication.run(EmployeeDepartmentApplication.class, args);
 	}
 
-       //feature-200 changes
-	public static void doProcess() {
-		//feature-200 changes
-		//njnacsjkbckjasb
-	}
-
 }
